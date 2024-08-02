@@ -15,3 +15,9 @@ Deep Learning particularly Convolutional Neural Network (CNNs) and Vision Transf
 ● Model like Segformer and UperNet- Swin transformer show promising results. 
 
 ● Advantages: Potentially better at handling complex and varied crack pattern
+
+# Data Set details:
+● Format: RGB, JPEG
+● Resolution: 227 x 227 pixels
+● Classes: crack, non-crack
+● Total images: 30,000
